@@ -20,3 +20,4 @@ class Database:
 
     def all(self):
         return self.sql("SELECT * FROM main")
+
